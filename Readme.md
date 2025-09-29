@@ -110,5 +110,5 @@ Create `docs/DECISIONS.md` and record major choices with date and rationale. Exa
 ---
 
 ## Maintainers & Support
-- Maintainers: {{PRIMARY_OWNER}} ([@{{GITHUB_HANDLE}}](https://github.com/{{GITHUB_HANDLE}})), {{CO_MAINTAINER}}
+- Maintainers: {{PRIMARY_OWNER}} ([@{{GITHUB_HANDLE}}](https://github.com/{{GITHUB_HANDLE}})), Aroudra (https://github.com/aroudrasthakur)
 - Directors / Contacts: Tobi and Prajit Viswanadha — DM on Discord
