@@ -309,5 +309,6 @@ ruff check .
 ## Maintainers & Support
 
 =======
-- Maintainers: Zaineel Mithani ([@zaineel](https://github.com/zaineel)), Aroudra ([@aroudrasthakur](https://github.com/aroudrasthakur)), Tanzid Noor Azad ([@TanzidAzad](https://github.com/TanzidAzad), Soumik Sen ([@soumiksen](https://github.com/soumiksen))
+
+- Maintainers: Zaineel Mithani ([@zaineel](https://github.com/zaineel)), Aroudra ([@aroudrasthakur](https://github.com/aroudrasthakur)), Tanzid Noor Azad ([@TanzidAzad](https://github.com/TanzidAzad)), Soumik Sen ([@soumiksen](https://github.com/soumiksen))
 - Directors / Contacts: Tobi and Prajit Viswanadha — DM on Discord
