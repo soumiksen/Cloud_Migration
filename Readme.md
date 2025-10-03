@@ -310,5 +310,5 @@ ruff check .
 
 =======
 
-- Maintainers: Zaineel Mithani ([@zaineel](https://github.com/zaineel)), Aroudra ([@aroudrasthakur](https://github.com/aroudrasthakur)), Tanzid Noor Azad ([@TanzidAzad](https://github.com/TanzidAzad)), Soumik Sen ([@soumiksen](https://github.com/soumiksen))
+- Maintainers: Zaineel Mithani ([@zaineel](https://github.com/zaineel)), Aroudra ([@aroudrasthakur](https://github.com/aroudrasthakur)), Tanzid Noor Azad ([@TanzidAzad](https://github.com/TanzidAzad)), Soumik Sen ([@soumiksen](https://github.com/soumiksen)), Hani Markos ([@hm-22](https://github.com/hm-22))
 - Directors / Contacts: Tobi and Prajit Viswanadha — DM on Discord
